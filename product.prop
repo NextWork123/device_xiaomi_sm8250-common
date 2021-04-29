@@ -1,6 +1,13 @@
 # Blur
 ro.surface_flinger.supports_background_blur=1
 
+# Bluetooth
+ro.bluetooth.library_name=libbluetooth_qti.so
+
+# Camera
+log.tag.CHIUSECASE=ERROR
+persist.vendor.camera.logInfoMask=false
+
 # Dex2oat
 dalvik.vm.dex2oat64.enabled=true
 
