@@ -8,6 +8,7 @@ dalvik.vm.dex2oat64.enabled=true
 debug.hwui.renderer=skiagl
 debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
+vendor.display.disable_rotator_downscale=1
 
 #Radio
 ro.telephony.default_network=33,33
@@ -18,4 +19,3 @@ persist.carrier.enable_smart_5g=0
 # Transcoding related property.
 debug.media.transcoding.codec_max_operating_rate_720P=240
 debug.media.transcoding.codec_max_operating_rate_1080P=120
-
