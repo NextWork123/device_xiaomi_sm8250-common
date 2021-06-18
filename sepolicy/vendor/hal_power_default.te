@@ -7,6 +7,10 @@ allow hal_power_default sysfs_msm_subsys:file rw_file_perms;
 allow hal_power_default sysfs_fs_f2fs:dir r_dir_perms;
 allow hal_power_default sysfs_fs_f2fs:file rw_file_perms;
 
+
+allow hal_power_default proc:file { open };
+allow hal_power_default proc:file { write };
+
 r_dir_file(hal_power_default, input_device)
 
 allow hal_power_default {
