@@ -9,6 +9,12 @@ debug.hwui.renderer=skiagl
 debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
 
+#Radio
+ro.telephony.default_network=33,33
+ro.vendor.radio.imei.sv=1
+ril.subscription.types=RUIM
+persist.carrier.enable_smart_5g=0
+
 # Transcoding related property.
 debug.media.transcoding.codec_max_operating_rate_720P=240
 debug.media.transcoding.codec_max_operating_rate_1080P=120
