@@ -299,6 +299,9 @@ PRODUCT_PACKAGES += \
 #PRODUCT_BOOT_JARS += \
 #    org.ifaa.android.manager
 
+# iorap
+PRODUCT_PACKAGES += iorap-nall
+
 # IPACM
 PRODUCT_PACKAGES += \
     ipacm \
