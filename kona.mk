@@ -562,6 +562,8 @@ PRODUCT_PACKAGES += \
     libOmxVdec \
     libOmxVenc \
     libstagefrighthw \
+    libstagefrighthw_omx \
+    libstagefrighthw_foundation \
     libstagefright_omx.vendor
 
 # Perf
