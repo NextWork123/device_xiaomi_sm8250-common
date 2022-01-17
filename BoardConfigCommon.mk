@@ -224,7 +224,7 @@ SOONG_CONFIG_XIAOMI_KONA_ROOTDIR_PARTITION_SCHEME := a
 endif
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2021-08-01
+VENDOR_SECURITY_PATCH := 2021-09-05
 
 # Sepolicy
 include device/qcom/sepolicy_vndr/SEPolicy.mk
