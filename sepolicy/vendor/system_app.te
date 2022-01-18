@@ -4,4 +4,6 @@ allow system_app vendor_sysfs_battery_supply:file { open };
 allow system_app vendor_sysfs_battery_supply:file { getattr };
 allow system_app proc_pagetypeinfo:file r_file_perms;
 
+allow system_app vendor_diag_device:chr_file { read write open };
+
 r_dir_file(system_app, vendor_sysfs_battery_supply)
