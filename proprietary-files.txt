@@ -420,20 +420,20 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so|68d36a14afd9da80ff99d8d8e2c91b53268
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|13af0229d2f43d9653d48b4400c7db999d9035e5
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so|6d4b854e7ba91ef98398568c365a131cf4c01c93
 
-# IPA firmware
-vendor/etc/init/ipa_fws.rc
-vendor/firmware/ipa_fws.b00
-vendor/firmware/ipa_fws.b01
-vendor/firmware/ipa_fws.b02
-vendor/firmware/ipa_fws.b03
-vendor/firmware/ipa_fws.b04
-vendor/firmware/ipa_fws.elf
-vendor/firmware/ipa_fws.mdt
-vendor/firmware/ipa_uc.b00
-vendor/firmware/ipa_uc.b01
-vendor/firmware/ipa_uc.b02
-vendor/firmware/ipa_uc.elf
-vendor/firmware/ipa_uc.mdt
+# IPA firmware - From qssi-user-12-SKQ1.211006.001-22.1.19-release-keys
+vendor/etc/init/ipa_fws.rc|f1826b81077f51470c97781823f109f12361ac8b
+vendor/firmware/ipa_fws.b00|5b8bc4a7ef9f033e836854e21532e8eaf5b73e99
+vendor/firmware/ipa_fws.b01|4078edb59a8884dc2e9257edaf9dc5383f2d5eb7
+vendor/firmware/ipa_fws.b02|6954066d6779502d261f647086a2fd1e38bae16f
+vendor/firmware/ipa_fws.b03|c07cfef57f8f694b4cee41e78700614efbedf2bc
+vendor/firmware/ipa_fws.b04|e20c91f1c7e833886d443bbf0cb33223e303583b
+vendor/firmware/ipa_fws.elf|d5c7d3d62c7b15098dfcb20653e7f29bcbfd4202
+vendor/firmware/ipa_fws.mdt|ed302211bc3fc0f104bd22a1c3000b731c35a494
+vendor/firmware/ipa_uc.b00|c469dae927f8645bdc82adf217a20170f3e5bb9f
+vendor/firmware/ipa_uc.b01|86d2792183b24cf74a7a45375e52d06ce7a64141
+vendor/firmware/ipa_uc.b02|4c7bcc7e9e5285194d271931d31128a6a6660823
+vendor/firmware/ipa_uc.elf|ecd69b14769326d9cfc50d82df86476e741c4332
+vendor/firmware/ipa_uc.mdt|38c9ef8fb5768a354c8a0694b42c356abedb607d
 
 # IRQ balance - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 vendor/bin/msm_irqbalance|2ac477da6216b8bf616db5a205dac4059b6d73a4
