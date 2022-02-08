@@ -239,8 +239,8 @@
     <hal format="hidl">
         <name>vendor.qti.hardware.radio.uim_remote_client</name>
         <transport>hwbinder</transport>
-        <fqname>@1.0::IUimRemoteServiceClient/uimRemoteClient0</fqname>
-        <fqname>@1.0::IUimRemoteServiceClient/uimRemoteClient1</fqname>
+        <fqname>@1.2::IUimRemoteServiceClient/uimRemoteClient0</fqname>
+        <fqname>@1.2::IUimRemoteServiceClient/uimRemoteClient1</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.qti.hardware.radio.uim_remote_server</name>
