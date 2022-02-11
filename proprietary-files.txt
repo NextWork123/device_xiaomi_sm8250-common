@@ -437,7 +437,6 @@ vendor/firmware/ipa_uc.mdt|38c9ef8fb5768a354c8a0694b42c356abedb607d
 
 # IRQ balance - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 vendor/bin/msm_irqbalance|2ac477da6216b8bf616db5a205dac4059b6d73a4
-vendor/etc/msm_irqbalance.conf|39d0d339b3551e44258360abdb6e55e047983485
 
 # Keymaster - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 vendor/bin/hw/android.hardware.keymaster@4.1-service-qti|d339c17369a16b59093303ca714eab897ffdac60
