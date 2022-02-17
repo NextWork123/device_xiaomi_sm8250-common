@@ -130,6 +130,7 @@ persist.vendor.qcom.bluetooth.twsp_state.enabled=true
 ro.bluetooth.a2dp_offload.supported=true
 ro.vendor.bluetooth.wipower=false
 vendor.qcom.bluetooth.soc=hastings
+vendor.hw.fm.init=0
 
 # Crypto
 ro.crypto.allow_encrypt_override=true
