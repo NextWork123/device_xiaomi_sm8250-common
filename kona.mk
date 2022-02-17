@@ -624,10 +624,20 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
     hostapd \
     libwpa_client \
+    libwifi-hal:64 \
     libwifi-hal-ctrl \
     libwifi-hal-qcom \
+    vendor.qti.hardware.wifi.hostapd@1.0.vendor \
+    vendor.qti.hardware.wifi.hostapd@1.1.vendor \
     vendor.qti.hardware.wifi.hostapd@1.2.vendor \
+    vendor.qti.hardware.wifi.hostapd@1.3.vendor \
+    android.hardware.wifi.hostapd@1.3.vendor \
+    android.hardware.wifi.supplicant@1.4.vendor \
+    android.hardware.wifi@1.5.vendor \
+    vendor.qti.hardware.wifi.supplicant@2.0.vendor \
     vendor.qti.hardware.wifi.supplicant@2.1.vendor \
+    vendor.qti.hardware.wifi.supplicant@2.2.vendor \
+    vendor.qti.hardware.wifi.supplicant@2.3.vendor \
     WifiResCommon \
     wpa_supplicant \
     wpa_supplicant.conf
@@ -640,6 +650,7 @@ PRODUCT_COPY_FILES += \
 # WiFi Display
 PRODUCT_PACKAGES += \
     libnl \
+    libwfdaac \
     libwfdaac_vendor
 
 #PRODUCT_BOOT_JARS += \
