@@ -326,7 +326,9 @@ PRODUCT_PACKAGES += \
     android.hidl.manager@1.0.vendor \
     android.hidl.memory.block@1.0 \
     android.hidl.memory.block@1.0.vendor \
+    libhidltransport \
     libhidltransport.vendor \
+    libhwbinder \
     libhwbinder.vendor
 
 # HotwordEnrollement app permissions
