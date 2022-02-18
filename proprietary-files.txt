@@ -211,7 +211,6 @@ vendor/lib64/libQSEEComAPI.so|7e52f5f978861fb993955653c4d289d62937504e
 vendor/lib64/libStDrvInt.so|6091f1f496b87730f9a77e9ede504c4fa99c608a
 vendor/lib64/libdrmfs.so|587f73b4ffec2bb205e9647bb7b2e0947c21ad8c
 vendor/lib64/libdrmtime.so|f74a243d32606e69dc7c424eaecb19dcc7ee9605
-vendor/lib64/libops.so|17439c5decb8e42b0b6a747bf73c263ec0ea4cb1
 vendor/lib64/libqisl.so|c79719eebc094c2af9561e8df2c158638b111b70
 vendor/lib64/librpmb.so|e7b309bde30c76963b7164094a2df1cfd4c43fc0
 vendor/lib64/libsecureui.so|7b08568b5d548d543a3e3be80845d45d82fbdb01
@@ -221,6 +220,9 @@ vendor/lib64/libspl.so|e2b3e2dd28b0eee567d72de696cd1e01288ae06f
 vendor/lib64/libssd.so|0d037418e3bdc6d9ba94ce7020a04e85a06fab96
 vendor/lib64/libtzdrmgenprov.so|16b438118f53ae30889286b66cbf47a9c404cb30
 vendor/lib64/vendor.qti.hardware.qseecom@1.0.so|5b1046bc7c8a3f590bfedde06490b51adfeca923
+
+# TrustedAppDecrypt
+vendor/lib64/libops.so|b2223e64db9d8f84262da7a8621013d3c63b6c98
 
 # DRM (OEM Crypto API)
 vendor/lib64/libcpion.so
