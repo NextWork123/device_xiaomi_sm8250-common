@@ -814,6 +814,7 @@ vendor/lib64/libGPQTEEC_vendor.so|c5ad2383eed9c48d7faf1e69582878f51ec7f2f7
 vendor/lib64/libGPTEE_vendor.so|92c0215dbd3271e597d536c259df44aac716a402
 vendor/lib64/libQTEEConnector_vendor.so|22c4dfe5813f6f923a30ad9470227a65a217ab4a
 vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so|16abc70df20edc071deb364f130353ad3543c129
+vendor/lib64/libQTEEConnector_listener.so|bd2d7041c20eeeb85436696377edfbd1d302df49
 
 # Trusted User Interface - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|772dfdebadcfb9af3e6253fd3baf6d7502394ddd
